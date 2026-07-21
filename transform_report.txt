@@ -1,0 +1,139 @@
+137 source files indexed from devhub.
+68 pages had no devhub file but were fetched live from the ReadMe API:
+  - accordion -> docs/AppsFlyer SDKs/getting-started/accordion.md
+  - purchase-connector -> docs/AppsFlyer SDKs/getting-started/purchase-connector.md
+  - coming-back-soon -> docs/AppsFlyer SDKs/getting-started/coming-back-soon.md
+  - preserve-user-privacy -> docs/AppsFlyer SDKs/android-sdk/preserve-user-privacy.md
+  - purchase-validation -> docs/AppsFlyer SDKs/android-sdk/purchase-validation.md
+  - temp -> docs/AppsFlyer SDKs/android-sdk-reference/temp.md
+  - appsflyerinapppurchasevalidationcallback -> docs/AppsFlyer SDKs/android-sdk-reference/appsflyerinapppurchasevalidationcallback.md
+  - temp-appsflyerlib -> docs/AppsFlyer SDKs/ios-sdk-reference/temp-appsflyerlib.md
+  - unity-plugin -> docs/AppsFlyer SDKs/unity-plugin/index.md
+  - installation -> docs/AppsFlyer SDKs/unity-plugin/installation.md
+  - introduction-unity -> docs/AppsFlyer SDKs/unity-plugin/introduction-unity.md
+  - basicintegration -> docs/AppsFlyer SDKs/unity-plugin/basicintegration.md
+  - testing -> docs/AppsFlyer SDKs/unity-plugin/testing.md
+  - inappevents -> docs/AppsFlyer SDKs/unity-plugin/inappevents.md
+  - conversion-data-unity -> docs/AppsFlyer SDKs/unity-plugin/conversion-data-unity.md
+  - dmaconsent -> docs/AppsFlyer SDKs/unity-plugin/dmaconsent.md
+  - uninstallmeasurement -> docs/AppsFlyer SDKs/unity-plugin/uninstallmeasurement.md
+  - deeplinkintegrate -> docs/AppsFlyer SDKs/unity-plugin/deeplinkintegrate.md
+  - unifieddeeplink -> docs/AppsFlyer SDKs/unity-plugin/unifieddeeplink.md
+  - userinvite -> docs/AppsFlyer SDKs/unity-plugin/userinvite.md
+  - troubleshooting -> docs/AppsFlyer SDKs/unity-plugin/troubleshooting.md
+  - pushnotifications -> docs/AppsFlyer SDKs/unity-plugin/pushnotifications.md
+  - migrationguide -> docs/AppsFlyer SDKs/unity-plugin/migrationguide.md
+  - api -> docs/AppsFlyer SDKs/unity-plugin/api.md
+  - ad-revenue-unity -> docs/AppsFlyer SDKs/unity-plugin/ad-revenue-unity.md
+  - purchaseconnectorunity -> docs/AppsFlyer SDKs/unity-plugin/purchaseconnectorunity.md
+  - purchase-subscription-validation-unity -> docs/AppsFlyer SDKs/unity-plugin/purchase-subscription-validation-unity/index.md
+  - validate-and-log-unity -> docs/AppsFlyer SDKs/unity-plugin/purchase-subscription-validation-unity/validate-and-log-unity.md
+  - purchase-connector-unity -> docs/AppsFlyer SDKs/unity-plugin/purchase-subscription-validation-unity/purchase-connector-unity.md
+  - react-native-plugin -> docs/AppsFlyer SDKs/react-native-plugin/index.md
+  - rn_installation -> docs/AppsFlyer SDKs/react-native-plugin/rn_installation.md
+  - rn_integration -> docs/AppsFlyer SDKs/react-native-plugin/rn_integration.md
+  - rn_expoinstallation -> docs/AppsFlyer SDKs/react-native-plugin/rn_expoinstallation.md
+  - rn_testing -> docs/AppsFlyer SDKs/react-native-plugin/rn_testing.md
+  - rn_inappevents -> docs/AppsFlyer SDKs/react-native-plugin/rn_inappevents.md
+  - rn_deeplinkintegrate -> docs/AppsFlyer SDKs/react-native-plugin/rn_deeplinkintegrate.md
+  - rn_uninstallmeasurement -> docs/AppsFlyer SDKs/react-native-plugin/rn_uninstallmeasurement.md
+  - rn_unifieddeeplink -> docs/AppsFlyer SDKs/react-native-plugin/rn_unifieddeeplink.md
+  - rn_expodeeplinkintegration -> docs/AppsFlyer SDKs/react-native-plugin/rn_expodeeplinkintegration.md
+  - rn_userinvite -> docs/AppsFlyer SDKs/react-native-plugin/rn_userinvite.md
+  - rn_api -> docs/AppsFlyer SDKs/react-native-plugin/rn_api.md
+  - rn_cmp -> docs/AppsFlyer SDKs/react-native-plugin/rn_cmp.md
+  - rn_purchaseconnector -> docs/AppsFlyer SDKs/react-native-plugin/rn_purchaseconnector.md
+  - rn_espintegration -> docs/AppsFlyer SDKs/react-native-plugin/rn_espintegration.md
+  - unreal-engine-plugin -> docs/AppsFlyer SDKs/unreal-engine-plugin/index.md
+  - ue-installation -> docs/AppsFlyer SDKs/unreal-engine-plugin/ue-installation.md
+  - ue-integration -> docs/AppsFlyer SDKs/unreal-engine-plugin/ue-integration.md
+  - ue-deep-linking -> docs/AppsFlyer SDKs/unreal-engine-plugin/ue-deep-linking.md
+  - ue-images-cache -> docs/AppsFlyer SDKs/unreal-engine-plugin/ue-images-cache.md
+  - ue-api -> docs/AppsFlyer SDKs/unreal-engine-plugin/ue-api.md
+  - test-1 -> docs/Deep Linking and OneLink/dl_smart_script_v2/test-1.md
+  - c2s-integrations-overview -> docs/Gaming and CTV SDKs (BETA)/c2s-integrations-overview.md
+  - set-customer-user-id -> docs/Gaming and CTV SDKs (BETA)/set-customer-user-id.md
+  - unity-steam -> docs/Gaming and CTV SDKs (BETA)/unity-steam/index.md
+  - steam-vanilla -> docs/Gaming and CTV SDKs (BETA)/unity-steam/steam-vanilla.md
+  - unreal-steam -> docs/Gaming and CTV SDKs (BETA)/unity-steam/unreal-steam.md
+  - unity-epic -> docs/Gaming and CTV SDKs (BETA)/unity-epic/index.md
+  - unreal-epic -> docs/Gaming and CTV SDKs (BETA)/unity-epic/unreal-epic.md
+  - epic-vanilla -> docs/Gaming and CTV SDKs (BETA)/unity-epic/epic-vanilla.md
+  - meta-quest2-unity -> docs/Gaming and CTV SDKs (BETA)/meta-quest2-unity/index.md
+  - meta-quest2-unreal -> docs/Gaming and CTV SDKs (BETA)/meta-quest2-unity/meta-quest2-unreal.md
+  - unity-nativepc -> docs/Gaming and CTV SDKs (BETA)/unity-nativepc/index.md
+  - unreal-nativepc -> docs/Gaming and CTV SDKs (BETA)/unity-nativepc/unreal-nativepc.md
+  - nativepc-vanilla -> docs/Gaming and CTV SDKs (BETA)/unity-nativepc/nativepc-vanilla.md
+  - roku-brighscript -> docs/Gaming and CTV SDKs (BETA)/roku-brighscript.md
+  - ctv-log-event-event-parameters -> docs/Gaming and CTV SDKs (BETA)/ctv-log-event-event-parameters.md
+  - google-play-games-on-pc -> docs/Gaming and CTV SDKs (BETA)/google-play-games-on-pc.md
+  - google-icm-integration-odm-sdk -> docs/Integrations/google-icm-integration-odm-sdk.md
+
+3 pages had NO matching content anywhere (devhub or API), placeholders written:
+  - temp-1 -> docs/AppsFlyer SDKs/android-sdk/ad-revenue-1/temp-1.md
+  - temp-2 -> docs/AppsFlyer SDKs/android-sdk/android-send-consent-for-dma-compliance/temp-2.md
+  - deep-linking -> docs/AppsFlyer SDKs/unreal-engine-plugin/deep-linking.md
+
+11 pages were 'anyone_with_link' in devhub, marked hidden:true here:
+  - common-data-structures -> docs/AppsFlyer SDKs/getting-started/common-data-structures/index.md
+  - direct-deep-linking-1 -> docs/AppsFlyer SDKs/getting-started/common-data-structures/direct-deep-linking-1.md
+  - android-sample-payloads -> docs/AppsFlyer SDKs/getting-started/common-data-structures/android-sample-payloads.md
+  - ios-sample-payloads -> docs/AppsFlyer SDKs/getting-started/common-data-structures/ios-sample-payloads.md
+  - manual-testing-android -> docs/AppsFlyer SDKs/android-sdk/testing-android/manual-testing-android.md
+  - branch-migration-android -> docs/AppsFlyer SDKs/android-sdk/branch-migration-android.md
+  - branch-migration-ios -> docs/AppsFlyer SDKs/android-sdk/branch-migration-ios.md
+  - android-legacy-security-plugin -> docs/AppsFlyer SDKs/android-sdk/android-legacy-security-plugin.md
+  - android-security-plugin -> docs/AppsFlyer SDKs/android-sdk/android-security-plugin.md
+  - manual-testing-ios -> docs/AppsFlyer SDKs/ios-sdk/testing-ios/manual-testing-ios.md
+  - dl_smart_banner_v1 -> docs/Deep Linking and OneLink/dl_smart_banner_migration_guide/dl_smart_banner_v1.md
+
+49 files skipped as OpenAPI/non-markdown (handle manually):
+  - ../devhub/docs/guides/gaming_sdks/overview.html
+  - ../devhub/docs/guides/gaming_sdks/cuid-index.html
+  - ../devhub/docs/apis/rta/preload_download_api.yaml
+  - ../devhub/docs/apis/rta/ctv_c2s_events_api.yaml
+  - ../devhub/docs/apis/rta/c2s_sdkless_api.yaml
+  - ../devhub/docs/apis/rta/engagements_api.yaml
+  - ../devhub/docs/apis/rta/ctv_events_api.yaml
+  - ../devhub/docs/apis/rta/s2s_events_api.yaml
+  - ../devhub/docs/apis/rta/s2s_events_api3.yaml
+  - ../devhub/docs/apis/rta/web_s2s_api.yaml
+  - ../devhub/docs/apis/mos/pushapi_config_api.yaml
+  - ../devhub/docs/apis/mos/raw_data_pull_api_tokenv1.yaml
+  - ../devhub/docs/apis/mos/raw_data_pull_api_tokenv2.yaml
+  - ../devhub/docs/apis/protect360/new_validation_rules.yaml
+  - ../devhub/docs/apis/protect360/click_signing_api.yaml
+  - ../devhub/docs/apis/protect360/vr2.yaml
+  - ../devhub/docs/apis/management/user_management.yaml
+  - ../devhub/docs/apis/management/add_app_api.yaml
+  - ../devhub/docs/apis/management/app_management_v2.yaml
+  - ../devhub/docs/apis/management/app_list_ad_nets_api.yaml
+  - ../devhub/docs/apis/partnerIntSet/partner_integration_settings_api.yaml
+  - ../devhub/docs/apis/OneLink/onelinkapi_v2.yml
+  - ../devhub/docs/apis/OneLink/ddlapi.yaml
+  - ../devhub/docs/apis/OneLink/onelinkapi.yml
+  - ../devhub/docs/apis/SKAD/skan_postbacks_by_date_api.yaml
+  - ../devhub/docs/apis/SKAD/skan_conversion_studio_config_api.yaml
+  - ../devhub/docs/apis/SKAD/skan_cv_schema_adv_api.yaml
+  - ../devhub/docs/apis/SKAD/skanv4api.yaml
+  - ../devhub/docs/apis/SKAD/skan_agg_performance_report_api.yaml
+  - ../devhub/docs/apis/gcdapi/gcdapi_v5.yaml
+  - ../devhub/docs/apis/gcdapi/gcdapi.yaml
+  - ../devhub/docs/apis/Predict/predict_android_pull_api.yaml
+  - ../devhub/docs/apis/Predict/predict_ios_pull_api.yaml
+  - ../devhub/docs/apis/mobile/test_console_api.yaml
+  - ../devhub/docs/apis/ctv/roku_oas3.yaml
+  - ../devhub/docs/apis/ctv/rokuctv2.yaml
+  - ../devhub/docs/apis/creative/creative_external_api.yaml
+  - ../devhub/docs/apis/audience/additional_identifiers_api.yaml
+  - ../devhub/docs/apis/audience/audience_import_api.yaml
+  - ../devhub/docs/apis/audience/audience_external_api.yaml
+  - ../devhub/docs/apis/audience/audiences_user_attr_import.yaml
+  - ../devhub/docs/apis/ROI360/adrevacctint.yaml
+  - ../devhub/docs/apis/ROI360/incost_uploader.yaml
+  - ../devhub/docs/apis/ROI360/true_revenue_api.yaml
+  - ../devhub/docs/apis/analytics/aggregate_pull_api_v1.yaml
+  - ../devhub/docs/apis/analytics/cohort_api.yaml
+  - ../devhub/docs/apis/analytics/master_lastupdate_api.yaml
+  - ../devhub/docs/apis/analytics/master_api.yaml
+  - ../devhub/docs/apis/analytics/aggregate_pull_api_v2.yaml
