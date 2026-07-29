@@ -2,7 +2,6 @@
 title: Troubleshooting
 hidden: false
 ---
-
 # iOS Swizzling 
 
 * AppsFlyer Unity Plugin uses the [iOS life cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle) events for the SDK to work. 
