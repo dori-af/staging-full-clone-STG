@@ -2,7 +2,6 @@
 title: Uninstall Measurement
 hidden: false
 ---
-
 - [iOS](#ios)
 - [Android](#android)
 
