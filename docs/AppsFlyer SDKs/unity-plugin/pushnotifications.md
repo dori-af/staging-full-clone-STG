@@ -2,7 +2,6 @@
 title: Push Notifications
 hidden: false
 ---
-
 ## Unity push notifications using OneLink & Firebase
 
 <span class="annotation-recommended">Recommended</span>  
