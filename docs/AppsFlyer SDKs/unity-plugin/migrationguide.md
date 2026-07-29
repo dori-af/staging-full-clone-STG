@@ -2,7 +2,6 @@
 title: Migration guide from v4
 hidden: false
 ---
-
 1. [Remove the old Plugin](#remove-the-old-plugin)
 2. [Init the new Plugin](#init-the-new-plugin)
 3. [Update deeplink logic](#update-deeplink-logic)
@@ -331,3 +330,5 @@ AppsFlyer.loadConversionData(string callbackObject, string callbackMethod, strin
 AppsFlyer.setGCMProjectNumber(string googleGCMNumber);
 AppsFlyer.setShouldCollectDeviceName(bool shouldCollectDeviceName);
 ```
+
+
