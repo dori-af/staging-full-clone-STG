@@ -2,7 +2,6 @@
 title: Purchase and subscription validation
 hidden: false
 ---
-
 Purchase validation ensures that only real, store-confirmed in-app purchases and subscriptions are measured in AppsFlyer. It improves revenue accuracy, helps prevent reporting errors, and supports better campaign decisions.
 
 AppsFlyer offers two products to support purchase validation:
