@@ -3,7 +3,6 @@ title: Ad revenue
 excerpt: Impression-level ad revenue reporting by SDK
 hidden: false
 ---
-
 The app sends impression revenue data to the SDK which then sends it to AppsFlyer. The revenue data is collected and processed in AppsFlyer, and the revenue is attributed to the original UA source. To learn more about ad revenue see [here](https://support.appsflyer.com/hc/en-us/articles/217490046#connect-to-ad-revenue-integrated-partners).
 
 There are two ways for the SDK to generate an ad revenue event, depending on your SDK version. Use the correct method for your SDK version:
