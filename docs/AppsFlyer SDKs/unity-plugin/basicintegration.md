@@ -2,7 +2,6 @@
 title: Integration
 hidden: false
 ---
-
 You can initialize the plugin by using the AppsFlyerObject prefab or manually.
 
 - [Using the AppsFlyerObject.prefab](#using-the-appsflyerobjectprefab)
