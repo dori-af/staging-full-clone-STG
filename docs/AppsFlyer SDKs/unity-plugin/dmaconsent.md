@@ -2,7 +2,6 @@
 title: Sending Consent Data for DMA Compliance
 hidden: false
 ---
-
 # Send consent for DMA compliance (Unity)
 
 For a general introduction to DMA consent data, see the [DMA consent overview](https://dev.appsflyer.com/hc/docs/send-consent-for-dma-compliance) in the AppsFlyer docs. The SDK offers two alternative methods for gathering consent data:
