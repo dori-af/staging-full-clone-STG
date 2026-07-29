@@ -2,7 +2,6 @@
 title: Test Integration
 hidden: false
 ---
-
 You are can test your integration for the following OS:
 
 - [Testing for iOS/Android](#testing-for-iosandroid)
@@ -32,3 +31,4 @@ To enable the debug logs, please uncomment the following line in [AppsFlyerWindo
 ```
 
 After running the app, you will be able to find the logs in `%USERPROFILE%\AppData\Local\Packages<productname>\TempState\UnityPlayer.log`
+
