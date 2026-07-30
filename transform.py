@@ -85,11 +85,20 @@ def build_source_index():
                     continue
                 path = os.path.join(dirpath, fname)
                 ext = os.path.splitext(fname)[1].lower()
-                if ext in (".yaml", ".yml", ".json", ".html"):
+                if ext in (".yaml", ".yml", ".json"):
+                    # Real OpenAPI/Postman specs -- these don't go through
+                    # Bi-Directional Sync at all; they need ReadMe's separate
+                    # OpenAPI upload mechanism (API Reference definitions).
                     flagged.append(path)
                     continue
-                if ext != ".md":
+                if ext not in (".md", ".html"):
                     continue
+                # .html guide pages (e.g. ones using legacy [block:html] syntax)
+                # are real guide content, not API specs -- index them exactly
+                # like .md files. write_page() always writes the destination
+                # with a .md extension regardless of source extension, so this
+                # naturally converts them to proper Bi-Directional Sync .md
+                # files instead of leaving them stranded as raw .html.
                 try:
                     with open(path, "r", encoding="utf-8") as f:
                         content = f.read()
@@ -480,7 +489,7 @@ def main():
     lines.append(f"\n{len(unlisted_log)} pages were 'anyone_with_link' in devhub, marked hidden:true here:")
     for slug, path in unlisted_log:
         lines.append(f"  - {slug} -> {path}")
-    lines.append(f"\n{len(flagged)} files skipped as OpenAPI/non-markdown (handle manually):")
+    lines.append(f"\n{len(flagged)} OpenAPI/Postman spec files skipped (need ReadMe's OpenAPI upload mechanism, not Bi-Directional Sync):")
     for path in flagged:
         lines.append(f"  - {path}")
 
