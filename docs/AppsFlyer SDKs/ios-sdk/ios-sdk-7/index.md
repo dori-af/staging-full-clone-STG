@@ -24,3 +24,10 @@ A new file-based configuration, `AppsFlyerLibConfig.plist`, lets you declare bui
 > 🚧 Important
 >
 > v7 includes breaking changes. Review [Migrate to iOS SDK v7](https://dev.appsflyer.com/hc/docs/migrate-ios-sdk-to-v7) before upgrading.
+
+## SDK 7 sections
+
+- [Integrate SDK](doc:integrate-ios-sdk-7) — install, integrate, get conversion data, set the Customer User ID, and troubleshoot.
+- [In-app events](doc:sending-events-ios-7) — send events, validate purchases, log ad revenue.
+- [Preserve user privacy](doc:preserve-user-privacy-ios-7)
+- [Features](doc:push-notifications-ios-7) — push notifications, uninstall measurement, DMA compliance.

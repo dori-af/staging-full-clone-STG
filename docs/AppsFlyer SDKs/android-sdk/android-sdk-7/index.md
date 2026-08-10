@@ -24,3 +24,10 @@ A new file-based configuration, `af_init_config.json` in your assets folder, let
 > 🚧 Important
 >
 > v7 includes breaking changes. Review [Migrate to Android SDK v7](https://dev.appsflyer.com/hc/docs/migrate-android-sdk-to-v7) before upgrading.
+
+## SDK 7 sections
+
+- [Integrate SDK](doc:integrate-android-sdk-7) — install, integrate, get conversion data, set the Customer User ID, and troubleshoot.
+- [In-app events](doc:sending-events-android-7) — send events, validate purchases, log ad revenue.
+- [Preserve user privacy](doc:preserve-user-privacy-android-7)
+- [Features](doc:push-notifications-android-7) — push notifications, uninstall measurement, DMA compliance, OAID.

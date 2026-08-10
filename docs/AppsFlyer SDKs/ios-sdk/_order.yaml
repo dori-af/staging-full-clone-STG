@@ -1,13 +1,6 @@
-- ios-release-notes
 - ios-sdk-7
-- install-ios-sdk
-- integrate-ios-sdk
+- ios-sdk-6
 - testing-ios
-- in-app-events-ios
-- conversion-data-ios
-- push-notifications-ios
-- uninstall-measurement-ios
-- ad-revenue-2
-- purchase-validation-ios
-- preserve-user-privacy-ios
-- ios-send-consent-for-dma-compliance
+- ios-release-notes
+- ios-sdk-reference
+- branch-migration-ios
