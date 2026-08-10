@@ -1,6 +1,5 @@
 - android-sdk-7
 - android-sdk-6
-- testing-android
 - android-release-notes
 - android-sdk-reference
 - preserve-user-privacy
@@ -8,3 +7,4 @@
 - android-security-plugin
 - android-legacy-security-plugin
 - branch-migration-android
+- manual-testing-android
